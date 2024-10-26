@@ -50,9 +50,9 @@ p {
 }
 
 .preview img {
-    width: 100%;
-    height: auto;
-    margin: 10px 0;
-    border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 1365px;    /* Set the width to 1365 pixels */
+    height: 738px;    /* Set the height to 738 pixels */
+    margin: 10px 0;   /* Add some margin above and below */
+    border-radius: 8px; /* Optional: rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: shadow effect */
 }
